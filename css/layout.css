@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 
-section:first-child {
+.row:first-child {
   margin-left: 0;
 }
 
